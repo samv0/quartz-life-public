@@ -1,20 +1,11 @@
-# Quartz v4
+# Sam Vinh's Digital Garden
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+> “You have nothing to lose by showing your hand, and everything to gain from being sincere.” — Katie Bird
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+I told my friends about wanting to start a blog. Except before I start that blog, I must first figure out what blogging website to use. Oh I know! I am a software developer, so I will make my own blog website. Wait, wait, wait! I need to learn how to make a website using NextJS. And so on, and so forth, I spent a year deciding on the approach to take for my blog. I thought long and hard whether I wanted to write blogs at all. 
 
-**If you are looking for Quartz v3, you can find it on the [`hugo` branch](https://github.com/jackyzha0/quartz/tree/hugo).**
+One day I stumbled into Obsidian. Then, I started journaling. I saw Obsidian Publish. I discovered the concept of a "Digital Garden" and the idea enamored me.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+I procrastinated on making this garden because I didn't know what I wanted it to be. I didn't know what I would share with the world. I barely shared myself with friends and family.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+I want to start [here](https://life.samvinh.com/content/) and share pieces of life, work, and imagination with you.
